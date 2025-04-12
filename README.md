@@ -1,0 +1,2 @@
+# c_pointer_to_func_example
+c_pointer_to_func_example
